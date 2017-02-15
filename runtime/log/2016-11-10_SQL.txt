@@ -1,0 +1,60 @@
+save error
+INSERT INTO `lab_user` (name,password) VALUES ('hello''shiyanlou)
+客户IP:127.0.0.1
+时间:2016-11-10 18:58:20
+
+select error
+SELECT name FROM lab_user WHERE 
+客户IP:127.0.0.1
+时间:2016-11-10 19:00:32
+
+select error
+SELECT name FROM lab_user WHERE 
+客户IP:127.0.0.1
+时间:2016-11-10 19:00:33
+
+select error
+SELECT name FROM lab_user WHERE 
+客户IP:127.0.0.1
+时间:2016-11-10 19:00:33
+
+select error
+SELECT name FROM lab_user WHERE 
+客户IP:127.0.0.1
+时间:2016-11-10 19:01:14
+
+select error
+SELECT name FROM lab_user WHERE 
+客户IP:127.0.0.1
+时间:2016-11-10 19:01:15
+
+select error
+SELECT name FROM lab_user WHERE 
+客户IP:127.0.0.1
+时间:2016-11-10 19:01:15
+
+select error
+SELECT name FROM lab_user WHERE 
+客户IP:127.0.0.1
+时间:2016-11-10 19:01:16
+
+select error
+SELECT name FROM lab_user WHERE 
+客户IP:127.0.0.1
+时间:2016-11-10 19:01:16
+
+select error
+SELECT name FROM lab_user WHERE 
+客户IP:127.0.0.1
+时间:2016-11-10 19:02:02
+
+select error
+SELECT name FROM lab_user WHERE 0 >'id',1 >'0'
+客户IP:127.0.0.1
+时间:2016-11-10 19:02:05
+
+select error
+SELECT name FROM lab_user WHERE 0 >'id',1 >'0'
+客户IP:127.0.0.1
+时间:2016-11-10 19:02:05
+
